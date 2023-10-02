@@ -1,4 +1,4 @@
 # contador
 Um simples contador. Dã
 
-Página preview: https://jailson-dev.infinityfreeapp.com/contador/
+Página preview: www.jailson-dev.infinityfreeapp.com/contador/
